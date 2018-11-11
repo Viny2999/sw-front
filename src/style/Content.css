@@ -1,0 +1,45 @@
+.content {
+  height: 70%;
+  width: 50%;
+  margin: 0 auto;
+  color: black;
+}
+
+.submit-button {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.nav-link {
+  cursor: pointer;
+  color: lightgrey !important;
+}
+
+.tab-content {
+  margin-bottom: 30px;
+}
+
+.active {
+  cursor: default;
+  color: black !important;
+  background-color: lightgrey !important;
+}
+
+.hero-section {
+  display: flex;
+  flex-direction: column;
+  text-align: initial;
+  background-color: lightgrey;
+  height: 300px;
+  overflow: auto;
+}
+
+.form {
+  margin-top: 20px;
+  width: 80%;
+  align-self: center;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}

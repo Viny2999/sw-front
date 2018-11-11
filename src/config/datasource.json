@@ -1,0 +1,8 @@
+{
+  "localhost": {
+    "url": "http://localhost:3000/api/"
+  },
+  "heroku": {
+    "url": "https://starwars-vinyapi.herokuapp.com/api/"
+  }
+}

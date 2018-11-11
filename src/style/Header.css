@@ -1,0 +1,18 @@
+@font-face {
+  font-family: sw-font;
+  src: url(./Starjedi.ttf);
+}
+
+.App-header {
+  height: 200px;
+  display: flex;
+  align-items: center;
+}
+
+.Title {
+  margin: 0 auto;
+  font-family: sw-font;
+  color: black;
+  text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+  font-size: 5em;
+}
